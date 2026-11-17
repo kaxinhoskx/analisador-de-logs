@@ -1,0 +1,127 @@
+Nov 17 08:00:05 servidor sshd[2832]: Accepted password for carla from 198.51.100.12 port 50022 ssh2
+Nov 17 08:07:05 servidor sshd[1514]: Accepted password for ana from 198.51.100.10 port 50022 ssh2
+Nov 17 08:09:05 servidor sshd[2638]: Accepted password for bruno from 198.51.100.14 port 50022 ssh2
+Nov 17 08:30:05 servidor sshd[1434]: Accepted password for ana from 198.51.100.11 port 50022 ssh2
+Nov 17 08:44:05 servidor sshd[7201]: Accepted password for carla from 198.51.100.13 port 50022 ssh2
+Nov 17 08:48:05 servidor sshd[7916]: Accepted password for ana from 198.51.100.11 port 50022 ssh2
+Nov 17 08:51:05 servidor sshd[9701]: Accepted password for carla from 198.51.100.13 port 50022 ssh2
+Nov 17 09:00:00 servidor sshd[3085]: Failed password for root from 203.0.113.99 port 42000 ssh2
+Nov 17 09:05:05 servidor sshd[8668]: Accepted password for bruno from 198.51.100.13 port 50022 ssh2
+Nov 17 09:09:05 servidor sshd[5033]: Accepted password for carla from 198.51.100.11 port 50022 ssh2
+Nov 17 09:13:05 servidor sshd[5010]: Accepted password for carla from 198.51.100.11 port 50022 ssh2
+Nov 17 09:15:05 servidor sshd[3170]: Accepted password for carla from 198.51.100.11 port 50022 ssh2
+Nov 17 09:20:05 servidor sshd[6925]: Accepted password for carla from 198.51.100.12 port 50022 ssh2
+Nov 17 09:21:05 servidor sshd[8428]: Accepted password for ana from 198.51.100.10 port 50022 ssh2
+Nov 17 09:35:05 servidor sshd[8886]: Accepted password for ana from 198.51.100.11 port 50022 ssh2
+Nov 17 09:40:05 servidor sshd[2790]: Accepted password for ana from 198.51.100.13 port 50022 ssh2
+Nov 17 09:44:00 servidor sshd[7912]: Failed password for carla from 198.51.100.14 port 50022 ssh2
+Nov 17 09:44:00 servidor sshd[6635]: Failed password for ana from 198.51.100.13 port 50022 ssh2
+Nov 17 09:44:05 servidor sshd[1520]: Accepted password for carla from 198.51.100.14 port 50022 ssh2
+Nov 17 09:44:05 servidor sshd[5333]: Accepted password for ana from 198.51.100.13 port 50022 ssh2
+Nov 17 09:54:05 servidor sshd[3286]: Accepted password for ana from 198.51.100.12 port 50022 ssh2
+Nov 17 09:54:05 servidor sshd[1053]: Accepted password for bruno from 198.51.100.13 port 50022 ssh2
+Nov 17 09:57:05 servidor sshd[6573]: Accepted password for carla from 198.51.100.14 port 50022 ssh2
+Nov 17 10:14:05 servidor sshd[2188]: Accepted password for carla from 198.51.100.12 port 50022 ssh2
+Nov 17 10:26:05 servidor sshd[9830]: Accepted password for bruno from 198.51.100.11 port 50022 ssh2
+Nov 17 10:38:05 servidor sshd[1958]: Accepted password for ana from 198.51.100.12 port 50022 ssh2
+Nov 17 10:41:00 servidor sshd[4044]: Failed password for ana from 198.51.100.14 port 50022 ssh2
+Nov 17 10:41:05 servidor sshd[2122]: Accepted password for ana from 198.51.100.14 port 50022 ssh2
+Nov 17 10:47:05 servidor sshd[4598]: Accepted password for bruno from 198.51.100.13 port 50022 ssh2
+Nov 17 11:00:02 servidor sshd[2697]: Failed password for invalid user test from 203.0.113.50 port 41000 ssh2
+Nov 17 11:00:05 servidor sshd[2891]: Failed password for invalid user test from 203.0.113.50 port 41000 ssh2
+Nov 17 11:00:07 servidor sshd[5462]: Failed password for invalid user admin from 203.0.113.50 port 41000 ssh2
+Nov 17 11:00:11 servidor sshd[6617]: Failed password for invalid user admin from 203.0.113.50 port 41000 ssh2
+Nov 17 11:00:14 servidor sshd[9280]: Failed password for invalid user test from 203.0.113.50 port 41000 ssh2
+Nov 17 11:00:19 servidor sshd[1832]: Failed password for invalid user test from 203.0.113.50 port 41000 ssh2
+Nov 17 11:00:21 servidor sshd[5533]: Failed password for invalid user oracle from 203.0.113.50 port 41000 ssh2
+Nov 17 11:00:23 servidor sshd[6464]: Failed password for invalid user root from 203.0.113.50 port 41000 ssh2
+Nov 17 11:00:26 servidor sshd[3647]: Failed password for invalid user test from 203.0.113.50 port 41000 ssh2
+Nov 17 11:00:31 servidor sshd[1158]: Failed password for invalid user oracle from 203.0.113.50 port 41000 ssh2
+Nov 17 11:00:33 servidor sshd[3442]: Failed password for invalid user root from 203.0.113.50 port 41000 ssh2
+Nov 17 11:00:39 servidor sshd[7049]: Failed password for invalid user root from 203.0.113.50 port 41000 ssh2
+Nov 17 11:00:45 servidor sshd[8041]: Failed password for invalid user admin from 203.0.113.50 port 41000 ssh2
+Nov 17 11:00:48 servidor sshd[6050]: Failed password for invalid user root from 203.0.113.50 port 41000 ssh2
+Nov 17 11:00:52 servidor sshd[6862]: Failed password for invalid user root from 203.0.113.50 port 41000 ssh2
+Nov 17 11:00:55 servidor sshd[2684]: Failed password for invalid user admin from 203.0.113.50 port 41000 ssh2
+Nov 17 11:00:59 servidor sshd[3532]: Failed password for invalid user oracle from 203.0.113.50 port 41000 ssh2
+Nov 17 11:01:02 servidor sshd[3900]: Failed password for invalid user admin from 203.0.113.50 port 41000 ssh2
+Nov 17 11:01:07 servidor sshd[3938]: Failed password for invalid user root from 203.0.113.50 port 41000 ssh2
+Nov 17 11:01:11 servidor sshd[5065]: Failed password for invalid user oracle from 203.0.113.50 port 41000 ssh2
+Nov 17 11:01:15 servidor sshd[2771]: Failed password for invalid user admin from 203.0.113.50 port 41000 ssh2
+Nov 17 11:01:20 servidor sshd[8711]: Failed password for invalid user root from 203.0.113.50 port 41000 ssh2
+Nov 17 11:01:23 servidor sshd[8541]: Failed password for invalid user admin from 203.0.113.50 port 41000 ssh2
+Nov 17 11:01:27 servidor sshd[4728]: Failed password for invalid user test from 203.0.113.50 port 41000 ssh2
+Nov 17 11:01:30 servidor sshd[4164]: Failed password for invalid user root from 203.0.113.50 port 41000 ssh2
+Nov 17 11:01:35 servidor sshd[5564]: Failed password for invalid user test from 203.0.113.50 port 41000 ssh2
+Nov 17 11:01:37 servidor sshd[6753]: Failed password for invalid user test from 203.0.113.50 port 41000 ssh2
+Nov 17 11:01:43 servidor sshd[9785]: Failed password for invalid user oracle from 203.0.113.50 port 41000 ssh2
+Nov 17 11:01:47 servidor sshd[2889]: Failed password for invalid user root from 203.0.113.50 port 41000 ssh2
+Nov 17 11:01:51 servidor sshd[5349]: Failed password for invalid user admin from 203.0.113.50 port 41000 ssh2
+Nov 17 11:01:53 servidor sshd[8119]: Failed password for invalid user root from 203.0.113.50 port 41000 ssh2
+Nov 17 11:01:57 servidor sshd[8149]: Failed password for invalid user test from 203.0.113.50 port 41000 ssh2
+Nov 17 11:02:03 servidor sshd[7311]: Failed password for invalid user root from 203.0.113.50 port 41000 ssh2
+Nov 17 11:02:09 servidor sshd[5173]: Failed password for invalid user admin from 203.0.113.50 port 41000 ssh2
+Nov 17 11:02:11 servidor sshd[1027]: Failed password for invalid user oracle from 203.0.113.50 port 41000 ssh2
+Nov 17 11:02:17 servidor sshd[6967]: Failed password for invalid user admin from 203.0.113.50 port 41000 ssh2
+Nov 17 11:02:22 servidor sshd[6409]: Failed password for invalid user root from 203.0.113.50 port 41000 ssh2
+Nov 17 11:02:28 servidor sshd[3041]: Failed password for invalid user test from 203.0.113.50 port 41000 ssh2
+Nov 17 11:02:32 servidor sshd[7691]: Failed password for invalid user test from 203.0.113.50 port 41000 ssh2
+Nov 17 11:02:36 servidor sshd[5844]: Failed password for invalid user oracle from 203.0.113.50 port 41000 ssh2
+Nov 17 11:29:05 servidor sshd[7484]: Accepted password for carla from 198.51.100.12 port 50022 ssh2
+Nov 17 11:36:05 servidor sshd[7537]: Accepted password for carla from 198.51.100.11 port 50022 ssh2
+Nov 17 11:37:05 servidor sshd[8517]: Accepted password for carla from 198.51.100.13 port 50022 ssh2
+Nov 17 11:38:05 servidor sshd[1035]: Accepted password for bruno from 198.51.100.10 port 50022 ssh2
+Nov 17 11:39:05 servidor sshd[8744]: Accepted password for carla from 198.51.100.11 port 50022 ssh2
+Nov 17 11:50:00 servidor sshd[4770]: Failed password for ana from 198.51.100.12 port 50022 ssh2
+Nov 17 11:50:05 servidor sshd[4608]: Accepted password for ana from 198.51.100.12 port 50022 ssh2
+Nov 17 12:00:00 servidor sshd[4143]: Failed password for root from 203.0.113.99 port 42000 ssh2
+Nov 17 12:08:05 servidor sshd[2588]: Accepted password for bruno from 198.51.100.13 port 50022 ssh2
+Nov 17 12:14:05 servidor sshd[3296]: Accepted password for ana from 198.51.100.11 port 50022 ssh2
+Nov 17 12:29:05 servidor sshd[7543]: Accepted password for carla from 198.51.100.14 port 50022 ssh2
+Nov 17 12:29:05 servidor sshd[2743]: Accepted password for carla from 198.51.100.11 port 50022 ssh2
+Nov 17 12:44:05 servidor sshd[6574]: Accepted password for ana from 198.51.100.11 port 50022 ssh2
+Nov 17 12:44:05 servidor sshd[6514]: Accepted password for ana from 198.51.100.11 port 50022 ssh2
+Nov 17 13:05:05 servidor sshd[3504]: Accepted password for carla from 198.51.100.14 port 50022 ssh2
+Nov 17 13:32:05 servidor sshd[6168]: Accepted password for ana from 198.51.100.11 port 50022 ssh2
+Nov 17 13:38:05 servidor sshd[8953]: Accepted password for ana from 198.51.100.14 port 50022 ssh2
+Nov 17 13:57:05 servidor sshd[3584]: Accepted password for ana from 198.51.100.11 port 50022 ssh2
+Nov 17 14:00:08 servidor sshd[7211]: Failed password for ana from 203.0.113.77 port 43000 ssh2
+Nov 17 14:00:16 servidor sshd[3851]: Failed password for ana from 203.0.113.77 port 43000 ssh2
+Nov 17 14:00:23 servidor sshd[5930]: Failed password for ana from 203.0.113.77 port 43000 ssh2
+Nov 17 14:00:29 servidor sshd[9977]: Failed password for ana from 203.0.113.77 port 43000 ssh2
+Nov 17 14:00:32 servidor sshd[5978]: Failed password for ana from 203.0.113.77 port 43000 ssh2
+Nov 17 14:00:37 servidor sshd[4443]: Failed password for ana from 203.0.113.77 port 43000 ssh2
+Nov 17 14:00:43 servidor sshd[6279]: Failed password for ana from 203.0.113.77 port 43000 ssh2
+Nov 17 14:00:49 servidor sshd[8238]: Failed password for ana from 203.0.113.77 port 43000 ssh2
+Nov 17 14:00:55 servidor sshd[4501]: Failed password for ana from 203.0.113.77 port 43000 ssh2
+Nov 17 14:01:02 servidor sshd[8752]: Failed password for ana from 203.0.113.77 port 43000 ssh2
+Nov 17 14:01:10 servidor sshd[3780]: Failed password for ana from 203.0.113.77 port 43000 ssh2
+Nov 17 14:01:18 servidor sshd[2389]: Failed password for ana from 203.0.113.77 port 43000 ssh2
+Nov 17 14:01:23 servidor sshd[9445]: Failed password for ana from 203.0.113.77 port 43000 ssh2
+Nov 17 14:01:31 servidor sshd[6491]: Failed password for ana from 203.0.113.77 port 43000 ssh2
+Nov 17 14:01:34 servidor sshd[4848]: Failed password for ana from 203.0.113.77 port 43000 ssh2
+Nov 17 14:01:44 servidor sshd[6085]: Accepted password for ana from 203.0.113.77 port 43000 ssh2
+Nov 17 14:10:05 servidor sshd[2489]: Accepted password for ana from 198.51.100.11 port 50022 ssh2
+Nov 17 14:11:00 servidor sshd[2290]: Failed password for bruno from 198.51.100.11 port 50022 ssh2
+Nov 17 14:11:05 servidor sshd[2403]: Accepted password for bruno from 198.51.100.11 port 50022 ssh2
+Nov 17 14:13:05 servidor sshd[5374]: Accepted password for ana from 198.51.100.12 port 50022 ssh2
+Nov 17 14:22:05 servidor sshd[9689]: Accepted password for ana from 198.51.100.14 port 50022 ssh2
+Nov 17 14:22:05 servidor sshd[5061]: Accepted password for bruno from 198.51.100.14 port 50022 ssh2
+Nov 17 14:39:05 servidor sshd[8973]: Accepted password for bruno from 198.51.100.13 port 50022 ssh2
+Nov 17 14:50:05 servidor sshd[6155]: Accepted password for bruno from 198.51.100.10 port 50022 ssh2
+Nov 17 15:00:00 servidor sshd[7888]: Failed password for root from 203.0.113.99 port 42000 ssh2
+Nov 17 15:12:05 servidor sshd[2235]: Accepted password for ana from 198.51.100.12 port 50022 ssh2
+Nov 17 15:21:05 servidor sshd[1887]: Accepted password for bruno from 198.51.100.13 port 50022 ssh2
+Nov 17 15:28:05 servidor sshd[9666]: Accepted password for carla from 198.51.100.12 port 50022 ssh2
+Nov 17 15:33:00 servidor sshd[9856]: Failed password for carla from 198.51.100.10 port 50022 ssh2
+Nov 17 15:33:05 servidor sshd[1241]: Accepted password for carla from 198.51.100.10 port 50022 ssh2
+Nov 17 16:06:05 servidor sshd[7932]: Accepted password for carla from 198.51.100.11 port 50022 ssh2
+Nov 17 16:17:05 servidor sshd[3103]: Accepted password for ana from 198.51.100.14 port 50022 ssh2
+Nov 17 17:01:05 servidor sshd[1188]: Accepted password for bruno from 198.51.100.14 port 50022 ssh2
+Nov 17 17:34:05 servidor sshd[8359]: Accepted password for ana from 198.51.100.14 port 50022 ssh2
+Nov 17 17:51:00 servidor sshd[4733]: Failed password for ana from 198.51.100.10 port 50022 ssh2
+Nov 17 17:51:05 servidor sshd[5741]: Accepted password for ana from 198.51.100.10 port 50022 ssh2
+Nov 17 17:52:05 servidor sshd[7868]: Accepted password for carla from 198.51.100.10 port 50022 ssh2
+Nov 17 17:53:00 servidor sshd[6138]: Failed password for carla from 198.51.100.14 port 50022 ssh2
+Nov 17 17:53:05 servidor sshd[1936]: Accepted password for carla from 198.51.100.14 port 50022 ssh2
+Nov 17 17:57:05 servidor sshd[5272]: Accepted password for carla from 198.51.100.14 port 50022 ssh2

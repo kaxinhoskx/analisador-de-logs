@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+relatorio.txt
+.pytest_cache/
+.idea/
+.vscode/
